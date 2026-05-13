@@ -1,6 +1,4 @@
 Data Cleaning in Excel
-
-This repository contains files with cleaned data. Below are the descriptions of the actions performed for each dataset.
 ---
 
 📁 20260319 inventory
