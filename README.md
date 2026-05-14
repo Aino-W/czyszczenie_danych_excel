@@ -42,7 +42,7 @@ Poniżej opisuję szczegółowo, co i jak poprawiłam w każdym pliku.
 **Narzędzie:** Excel Power Query  
 **Rozmiar pliku:** około 260 000 wierszy
 
-To był zdecydowanie największy i najbardziej wymagający zestaw danych. Każda kolumna wymagała osobnej uwagi.
+To był zdecydowanie największy i najbardziej wymagający zestaw danych.
 
 ---
 
