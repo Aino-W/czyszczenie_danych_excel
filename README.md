@@ -1,7 +1,6 @@
 # Czyszczenie danych w Excelu
 
-To repozytorium dokumentuje etap czyszczenia danych, jest to pierwsza część większego projektu.
-
+Poniższy projekt — czyszczenie danych — jest jednym z etapów większego projektu analitycznego. To jeden z ważniejszych kroków w całym procesie, bo jeśli dane są brudne, to żadna analiza nie ma sensu — wyniki sprzedaży, cen czy sezonowości byłyby po prostu nieprawdziwe.
 Projekt zawierał wiele błędów m.in.: nieistniejące daty (`2024-13-40`), wpisy `"not_a_date"`, puste komórki, nazwy krajów w różnych językach i formatach, błędny separator w cenach, zamówienia z ilością 0 lub bez produktu, sześć wariantów tych samych statusów oraz podejrzane powtarzające się wartości w kolumnie quantity.
 Poniżej opisuję szczegółowo, co i jak poprawiłam w każdym pliku.
 
